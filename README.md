@@ -5,7 +5,7 @@ Frontend/backend
 - 🔭 I’m currently working on some projects, like [Helm chart for Appwrite](https://github.com/k3env/appwrite-helm), [my K3s deployment script](https://github.com/k3env/k3s-boot) and [some learning projects](https://github.com/k3env/learning-webdev)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on some web app as frontend or backend developer
-- 📫 How to reach me: [Telegram](t.me/k3env)
+- 📫 How to reach me: [Telegram](https://t.me/k3env)
 
 <!--
 - 😄 Pronouns: he/him
