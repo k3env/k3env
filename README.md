@@ -3,8 +3,8 @@
 Frontend/backend
 
 - 🔭 I’m currently working on some projects, like [Helm chart for Appwrite](https://github.com/k3env/appwrite-helm), [my K3s deployment script](https://github.com/k3env/k3s-boot) and [some learning projects](https://github.com/k3env/learning-webdev)
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on some web app as frontend or backend developer
+<!-- - 🌱 I’m currently learning React -->
+- 👯 I’m looking for work as backend or frontend developer (intern/junior)
 - 📫 How to reach me: [Telegram](https://t.me/k3env)
 
 ![Lang](https://img.shields.io/badge/Languages%20%26%20frameworks%3A-535353?style=for-the-badge)![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)![TS](https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)![Angular](https://img.shields.io/badge/Angualr-DD0031?style=for-the-badge&logo=angular&logoColor=white)![dotNet](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
